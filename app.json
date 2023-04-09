@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "wayang-app",
-    "slug": "wayang-app",
+    "name": "belatik-app",
+    "slug": "belatik-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "wayang-app"
+  "name": "belatik-app"
 }
